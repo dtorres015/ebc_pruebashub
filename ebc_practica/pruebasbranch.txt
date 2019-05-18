@@ -3,3 +3,5 @@ Este es el primer cambio en el archivo
 Este es el segundo cambio en el archivo
 
 Este es el tercer cambio en el archivo
+
+Este cambio se hace desde GitHub
